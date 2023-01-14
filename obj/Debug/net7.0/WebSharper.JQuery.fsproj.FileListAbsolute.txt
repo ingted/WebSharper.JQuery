@@ -1,0 +1,11 @@
+G:\coldfar_py\sharftrade7\Libs\WebSharper.JQuery\bin\Debug\net7.0\WebSharper.JQuery.deps.json
+G:\coldfar_py\sharftrade7\Libs\WebSharper.JQuery\bin\Debug\net7.0\WebSharper.JQuery.dll
+G:\coldfar_py\sharftrade7\Libs\WebSharper.JQuery\obj\Debug\net7.0\WebSharper.JQuery.fsproj.AssemblyReference.cache
+G:\coldfar_py\sharftrade7\Libs\WebSharper.JQuery\obj\Debug\net7.0\WebSharper.JQuery.AssemblyInfoInputs.cache
+G:\coldfar_py\sharftrade7\Libs\WebSharper.JQuery\obj\Debug\net7.0\WebSharper.JQuery.AssemblyInfo.fs
+G:\coldfar_py\sharftrade7\Libs\WebSharper.JQuery\obj\Debug\net7.0\WebSharper.JQuery.fsproj.CoreCompileInputs.cache
+G:\coldfar_py\sharftrade7\Libs\WebSharper.JQuery\obj\Debug\net7.0\WebSharper.JQuery.dll
+G:\coldfar_py\sharftrade7\Libs\WebSharper.JQuery\obj\Debug\net7.0\WebSharper.JQuery.xml
+G:\coldfar_py\sharftrade7\Libs\WebSharper.JQuery\obj\Debug\net7.0\WebSharper.JQuery.pdb
+G:\coldfar_py\sharftrade7\Libs\WebSharper.JQuery\bin\Debug\net7.0\WebSharper.JQuery.pdb
+G:\coldfar_py\sharftrade7\Libs\WebSharper.JQuery\bin\Debug\net7.0\WebSharper.JQuery.xml

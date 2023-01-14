@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "+72B9/pY75tIVA9riSfyIu9OSy4HNFWMI20TXniXyQLPY/9WR8yKE3l4jMKy7Ck1UcOXzcWA89w3SFgsTy3TiA==",
+  "success": true,
+  "projectFilePath": "G:\\coldfar_py\\sharftrade7\\Libs\\WebSharper.JQuery\\WebSharper.JQuery.fsproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\anibal\\.nuget\\packages\\fsharp.core\\7.0.0\\fsharp.core.7.0.0.nupkg.sha512",
+    "C:\\Users\\anibal\\.nuget\\packages\\system.reflection.emit.ilgeneration\\4.7.0\\system.reflection.emit.ilgeneration.4.7.0.nupkg.sha512",
+    "C:\\Users\\anibal\\.nuget\\packages\\system.reflection.emit.lightweight\\4.7.0\\system.reflection.emit.lightweight.4.7.0.nupkg.sha512",
+    "C:\\Users\\anibal\\.nuget\\packages\\websharper\\6.1.1.252\\websharper.6.1.1.252.nupkg.sha512",
+    "C:\\Users\\anibal\\.nuget\\packages\\websharper.fsharp\\6.1.1.252\\websharper.fsharp.6.1.1.252.nupkg.sha512"
+  ],
+  "logs": []
+}

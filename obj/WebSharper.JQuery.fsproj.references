@@ -1,0 +1,5 @@
+FSharp.Core,6.0,Direct,Main,false,true,false,true
+System.Reflection.Emit.ILGeneration,4.7,Transitive,Main,false,true,false,true
+System.Reflection.Emit.Lightweight,4.7,Transitive,Main,false,true,false,true
+WebSharper,6.1.0.249,Direct,Main,false,true,false,true
+WebSharper.FSharp,6.1.0.249,Direct,Main,false,true,false,true
